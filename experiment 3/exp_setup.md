@@ -6,7 +6,7 @@
 
 **EPOCHS** = 5000
 
-**MASK** = MaskLine
+**MASK** = MaskRandomPixels
 
 **CRITERION** = nn.CrossEntropyLoss()
 
